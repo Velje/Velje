@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there i am new and i am stupid and i don't know how to use this👋
 
 <!--
 **Velje/Velje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
