@@ -2,7 +2,7 @@
 
 Okay this is cool. I understand.
 
-Here are some ideas to get you started:
+Thanks for the ideas.
 
 - 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning C language
