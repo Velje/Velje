@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything really
 - 📫 How to reach me: bro just send me a message what
 - 😄 Pronouns: Microphone
-- ⚡ Fun fact: I am a retard smile smile smile 
+- ⚡ Fun fact: I am a retard :)
 
