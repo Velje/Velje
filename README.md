@@ -4,7 +4,7 @@ Okay this is cool. I understand.
 
 Thanks for the ideas.
 
-- 🔭 I’m currently working on nothing
+- 🔭 I’m currently working on not ending my life
 - 🌱 I’m currently learning C language
 - 👯 I’m looking to collaborate on i dont know yet
 - 🤔 I’m looking for help with i guess on optimizing my code
