@@ -8,7 +8,7 @@ Thanks for the ideas.
 - 🌱 I’m currently learning C language
 - 👯 I’m looking to collaborate on i dont know yet
 - 🤔 I’m looking for help with i guess on optimizing my code
-- 💬 Ask me about anything really
+- 💬 Ask me about anything really DISCLAIMER: Not that i know anything YET!
 - 📫 How to reach me: bro just send me a message what
 - 😄 Pronouns: Microphone
 - ⚡ Fun fact: I am a retard :)
