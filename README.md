@@ -1,4 +1,4 @@
 - 🔭 I’m currently working on trying to learn as much as possible
-- 🌱 I’m currently learning C language and Assembly language
+- 🌱 I’m currently learning C, C++, Java, Assembly
 - 👯 I’m looking to collaborate on i dont know yet
 - 💬 Ask me about C language
