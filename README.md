@@ -1,4 +1,3 @@
 - 🔭 I’m currently working on trying to learn as much as possible
-- 🌱 I’m currently learning C, C++, Java, Assembly
+- 🌱 I’m currently learning C, C++, Java, JavaScript, HTML 5, CSS, Assembly
 - 👯 I’m looking to collaborate on i dont know yet
-- 💬 Ask me about C language
